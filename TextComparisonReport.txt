@@ -1,0 +1,25 @@
+Text Comparison Report
+=====================
+
+PDF File: C:/Users/dantu/eclipse-workspace/PDF-Extractor/src/com/test2.pdf
+Web Page: https://www.dantusaikamal.codes/humans.txt
+
+Number of words in the PDF: 61
+Number of words in the web page: 46
+Matching word count: 42
+
+Non-matching words:
+one
+two
+three
+these
+are
+some
+examples
+of
+additional
+non
+matching
+words
+in
+pdf
